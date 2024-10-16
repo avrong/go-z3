@@ -1,3 +1,3 @@
-module github.com/aclements/go-z3
+module github.com/avrong/go-z3
 
-go 1.18
+go 1.22.4
